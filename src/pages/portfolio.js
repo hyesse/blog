@@ -79,7 +79,7 @@ const Portfolio = ({ data, location }) => {
                       <img src={  } alt="healthmax-main" />
                     </div>
                     <div className="worksFrame">
-                    
+                     
                     </div>
                     <div className="worksFrame">
                     
